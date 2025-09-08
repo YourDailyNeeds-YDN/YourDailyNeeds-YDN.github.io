@@ -15,3 +15,4 @@ Pink/purple retro Pinterest-style affiliate site with category pages.
 3. Open: `https://<your-username>.github.io/<repo-name>/`
 
 > Replace all `YOURTAG-20` values with your Amazon Associates tag.
+
